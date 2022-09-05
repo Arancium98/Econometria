@@ -5,3 +5,5 @@ En este repositorio se encuentran los scripts de python utilizados en las ayudan
 3) Calculo manual de los estimadores Betas
 4) Analisis residual
 5) Supuestos de Minimos Cuadrados Ordinarios (MCO)
+
+Para consultas respecto este respositorio no dudes en enviarme un email!
